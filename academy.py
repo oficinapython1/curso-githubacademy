@@ -18,3 +18,4 @@ pesquisa.send_keys(Keys.RETURN)
 
 time.sleep(8)
 driver.close()
+#qualquer coisa
